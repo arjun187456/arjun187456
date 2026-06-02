@@ -11,10 +11,10 @@
 
 I am a **Robotics Engineer** and **Algorithmic Trader** passionate about building systems that operate autonomously — whether it's a robotic arm navigating physical space or a trading bot executing strategies in live markets.
 
-- 🤖 Building real-world autonomous robotic systems using **ROS 2**, **MoveIt 2**, and **Gazebo**
-- - 📈 Developing **algorithmic trading bots** with live order execution via Upstox API
-  - - 🗺️ Specializing in **SLAM, sensor fusion, localization**, and autonomous navigation
-    - - 🎓 Student at **IIT Hyderabad**
+- Building real-world autonomous robotic systems using **ROS 2**, **MoveIt 2**, and **Gazebo**
+- - Developing **algorithmic trading bots** with live order execution via Upstox API
+  - - Specializing in **SLAM, sensor fusion, localization**, and autonomous navigation
+    - - Student at **IIT Hyderabad**
      
       - ---
 
@@ -49,11 +49,11 @@ I am a **Robotics Engineer** and **Algorithmic Trader** passionate about buildin
 
       | Project | Description | Tech |
       |--------|-------------|------|
-      | [🦾 pick-and-place-ros2-gazebo](https://github.com/arjun187456/pick-and-place-ros2-gazebo) | Robotic arm pick-and-place simulation — plans and executes trajectories using MoveIt 2 in Gazebo Harmonic | ROS 2 Jazzy, MoveIt 2, Python, C++ |
-      | [📊 upstox-ready-algo](https://github.com/arjun187456/upstox-ready-algo) | Algorithmic trading bot with live order execution, strategy automation and backtesting | Python, Upstox API, REST |
-      | [🥯 Honey\_sandbox](https://github.com/arjun187456/Honey_sandbox_20260225) | Sandbox environment for testing algorithmic trading strategies with paper trading | Python |
-      | [🗺️ Self-Driving-and-ROS-2](https://github.com/arjun187456/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization) | Autonomous mobile robot with SLAM-based map building and localization | ROS 2, C++, SLAM |
-      | [🖥️ windowsgazebo](https://github.com/arjun187456/windowsgazebo) | Complete guide to setting up ROS 2 + Gazebo Harmonic on Windows with WSL2 | ROS 2, Gazebo, WSL2 |
+      | [pick-and-place-ros2-gazebo](https://github.com/arjun187456/pick-and-place-ros2-gazebo) | Robotic arm pick-and-place simulation — plans and executes trajectories using MoveIt 2 in Gazebo Harmonic | ROS 2, MoveIt 2, Python, C++ |
+      | [upstox-ready-algo](https://github.com/arjun187456/upstox-ready-algo) | Algorithmic trading bot with live order execution, strategy automation and backtesting | Python, Upstox API, REST |
+      | [Honey-sandbox](https://github.com/arjun187456/Honey_sandbox_20260225) | Sandbox environment for testing algorithmic trading strategies with paper trading | Python |
+      | [Self-Driving-and-ROS-2](https://github.com/arjun187456/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization) | Autonomous mobile robot with SLAM-based map building and localization | ROS 2, C++, SLAM |
+      | [windowsgazebo](https://github.com/arjun187456/windowsgazebo) | Complete setup guide for ROS 2 + Gazebo Harmonic on Windows with WSL2 | ROS 2, Gazebo, WSL2 |
 
       ---
 
@@ -67,8 +67,8 @@ I am a **Robotics Engineer** and **Algorithmic Trader** passionate about buildin
 
       ## 📬 Get In Touch
 
-      - 📧 **Email:** [nagarjunamani64@gmail.com](mailto:nagarjunamani64@gmail.com)
-      - - 💻 **GitHub:** [github.com/arjun187456](https://github.com/arjun187456)
+      - **Email:** [nagarjunamani64@gmail.com](mailto:nagarjunamani64@gmail.com)
+      - - **GitHub:** [github.com/arjun187456](https://github.com/arjun187456)
        
         - ---
 
